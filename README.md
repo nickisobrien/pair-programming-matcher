@@ -26,9 +26,9 @@ email3@email.com
 You'll need a `credentials.json` file from GCP.
 
 To obtain a `credentials.json` file, follow these steps:
-- Go to the Google Cloud Platform Console.
+- Go to the [Google Cloud Platform Console](https://console.cloud.google.com/).
 - Click the project drop-down and select or create the project for which you want to add an API key.
-- Go to the APIs & Services > Credentials page.
+- Go to the (APIs & Services > Credentials)[https://console.cloud.google.com/apis/credentials] page.
 - Click the "Create credentials" button and select "OAuth client ID".
 - Choose "Desktop app" as the application type and enter a name for the client.
 - Click "Create" to generate the client ID and client secret.

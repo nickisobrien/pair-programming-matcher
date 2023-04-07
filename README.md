@@ -35,3 +35,6 @@ To obtain a `credentials.json` file, follow these steps:
 - Click the download button (downward arrow) next to the created client ID to download the credentials.json file.
 
 That's it! Enjoy!
+
+## Author
+This was written in collaboration with ChatGPT4.0
